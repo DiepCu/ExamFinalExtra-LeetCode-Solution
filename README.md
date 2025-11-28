@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1425-constrained-subsequence-sum](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/1425-constrained-subsequence-sum) |
 ## Tree
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1425-constrained-subsequence-sum](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/1425-constrained-subsequence-sum) |
 ## Shortest Path
 |  |
 | ------- |
@@ -63,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/1192-critical-connections-in-a-network) |
+## Array
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/1425-constrained-subsequence-sum) |
+## Queue
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/1425-constrained-subsequence-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/1425-constrained-subsequence-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/1425-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->
