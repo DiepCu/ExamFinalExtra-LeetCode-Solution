@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
