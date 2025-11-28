@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Tree
 |  |
 | ------- |
@@ -30,8 +31,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
