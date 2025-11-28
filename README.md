@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0332-reconstruct-itinerary](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
+| [1192-critical-connections-in-a-network](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0332-reconstruct-itinerary) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1192-critical-connections-in-a-network](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/1192-critical-connections-in-a-network) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/DiepCu/ExamFinalExtra-LeetCode-Solution/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
