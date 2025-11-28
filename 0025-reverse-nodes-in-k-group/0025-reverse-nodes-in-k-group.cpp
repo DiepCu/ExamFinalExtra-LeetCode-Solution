@@ -31,7 +31,7 @@ public:
                 CurrN =head ;
                 head =TMP ;
             }
-        head = CurrN;
+        head =CurrN;
 
         }
         
