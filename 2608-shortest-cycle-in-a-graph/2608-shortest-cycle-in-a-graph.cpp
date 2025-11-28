@@ -1,8 +1,7 @@
 class Solution {
 public:
-
     int findShortestCycle(int n, vector<vector<int>>& edges) {
-        vector<vector<int>> GRAPH(n);
+ vector<vector<int>> GRAPH(n);
 
         for (auto &EDGE : edges){
 
